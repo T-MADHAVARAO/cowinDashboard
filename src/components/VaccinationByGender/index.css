@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.pai-chart {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.cates {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

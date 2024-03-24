@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg {
+  background-color: indigo;
+  padding: 20px;
+  min-height: 100vh;
+  max-height: cover;
+}
+.logo-cont {
+  display: flex;
+  align-items: center;
+}
+.logo-size {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
+.logo-heading {
+  color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+h1 {
+  color: mediumaquamarine;
+}
+.loader-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.failure-img {
+  width: 100%;
+}
+.app-heading {
+  text-align: center;
+  color: white;
+}
